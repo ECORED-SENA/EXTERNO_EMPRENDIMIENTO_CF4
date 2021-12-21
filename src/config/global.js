@@ -70,35 +70,14 @@ export default {
     ],
     subMenu: [
       {
-        icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
-        nombreRuta: 'sintesis',
-      },
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
-      },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
       },
       {
         icono: 'far fa-registered',
@@ -179,52 +158,37 @@ export default {
     liderEquipo: [
       {
         nombre: 'Maria Camila Garcia Santamaria',
-        cargo: 'Líder del equipo',
+        cargo: 'Líder del equipo SENA',
         centro: 'Dirección General',
       },
     ],
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Asesor metodológico y pedagógico SENA',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'Mónica Bibiana Gallego Madrid',
+        cargo: 'Diseñador Instruccional Fundación CA',
+        centro: 'Fundación CA',
       },
     ],
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
+        cargo: 'Responsable equipo SENA',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
-      },
-      {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'Jhoana Hincapie Herrera',
+        cargo: 'Diseño y desarrollo Fundación CA',
+        centro: 'Fundación CA',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
