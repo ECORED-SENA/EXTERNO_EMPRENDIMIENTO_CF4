@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Definición de la estrategia digital',
+    componenteFormativo: 'Define tu estrategia digital',
     descripcionCurso:
       'Apreciado aprendiz, ha llegado el momento de aterrizar una idea y poder integrar con tecnología, por ello en esta unida de realizar un modelo canvas básico con integración de tecnología y presentarlo con técnicas para un pitch efectivo de tu idea de negocio.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),

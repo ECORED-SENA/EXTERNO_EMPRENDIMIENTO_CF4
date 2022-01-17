@@ -1,1 +1,1 @@
-module.exports = 'Definición de la estrategia digital'
+module.exports = 'Define tu estrategia digital'
