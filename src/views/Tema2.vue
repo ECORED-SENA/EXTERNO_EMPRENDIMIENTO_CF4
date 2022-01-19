@@ -27,7 +27,7 @@
           img(src='@/assets/template/tema-2-2.png', alt='Texto que describa la imagen')
     .row.mt-5.mx-0
       .col-4.col-lg-3.col-xl-2.bg-azul-oscuro.py-2.mt-2.align-self-center
-        .h4.text-white ¿Cúal es tu público?
+        .h4.text-white ¿Cuál es tu público?
     p.mt-4 Dependiendo de la respuesta a esta pregunta el emprendedor prepara su discurso y toda la logística que lo acompaña. Dentro de la oratoria y la presentación de una propuesta hay un primer momento que no depende de palabras y nos referimos a la primera impresión, que depende de cómo es la entrada en la reunión, auditorio o habitación, cómo estamos vestidos y como saludamos. 
     .row.mt-4
       .col-4.d-none.d-lg-flex
