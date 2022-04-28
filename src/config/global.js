@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Define tu estrategia digital',
     descripcionCurso:
-      'Apreciado aprendiz, ha llegado el momento de aterrizar una idea y poder integrar con tecnología, por ello en esta unida de realizar un modelo canvas básico con integración de tecnología y presentarlo con técnicas para un pitch efectivo de tu idea de negocio.',
+      'Apreciado aprendiz, ha llegado el momento de aterrizar una idea y poder integrar con tecnología, por ello en este componente formativo de realizar un modelo canvas básico con integración de tecnología y presentarlo con técnicas para un <em>pitch</em> efectivo de tu idea de negocio.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -62,7 +62,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Técnica de elevator pitch',
+            titulo: 'Técnica de <em>elevator pitch</em>',
             hash: 't_2_3',
           },
         ],
@@ -99,21 +99,9 @@ export default {
     },
     {
       referencia:
-        'García Zamudio, J. I. (2017). PLAN DE NEGOCIO PARA LA CREACIÓN DE UN RESTAURANTE DE HAMBURGUESAS SALUDABLES EN LA CIUDAD DE BOGOTÁ D.C. Core.',
-      link:
-        ' https://d1wqtxts1xzle7.cloudfront.net/45818805/LECTURA_REFORZAMIENTO_MODULO_2-with-cover-page-v2.pdf?Expires=1630422366&Signature=cedyZuqCXooS0OpPH~-nMProHsww~agoR4BVoNjzUVO1Djpz~dhQRU8QYYPYCwMLdsOHCCvhGlFyc0YZk6Ip4IWsUiSDT2f2vy6LBEfvPxpToPNl7OSz7NM671ttXx9LmHHAcbJXImHbYdOu31SlRs8DzaiFiamRxmbLcd3UmuFhhXBsIU6eEwRZ8AqMRNF90lnxNZpm2ukcH-GdxLTiKXA9lvg9XNWRXqHnNjCyJiHcGmbykDlKn7lApD385K3qraqUDooaW0WP6tuyWpno-FAz6ZHw~fJtdS9rEZsFTCr5ExDdCGtboNWoLIPgjokc28TkU0jHA-PHayzbN01T-g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA',
-    },
-    {
-      referencia:
         'Itaú. (s. f.). Programa de asesoría de negocios. Modulo III: Plan de negocios. Banco Itaú. Recuperado 30 de agosto de 2021',
       link:
         'https://s2.q4cdn.com/476556808/files/doc_downloads/Folleto-3-(2).pdf',
-    },
-    {
-      referencia:
-        'Meza, A. (s. f.). LECTURA REFORZAMIENTO MODULO 2. Inadem. Recuperado 30 de agosto de 2021',
-      link:
-        'https://d1wqtxts1xzle7.cloudfront.net/45818805/LECTURA_REFORZAMIENTO_MODULO_2-with-cover-page-v2.pdf?Expires=1630380259&Signature=NuzqXC4txzlDpU3SKGLjmGvQpeV1X0H05xTVoI-LPR0BpLIdzYMOYZNc7-wBF0WQIJbKzXCENSSUs4bwZjBIJZqlDLI-pxg7iofg-6mgESUE8IVdtqrCp9w~pyuKMZA2d~pkuLvf5rrwFT3NsDkE49b0ar4SaWRurkwy7yBToEYbNNjTYWuXzjt6pUMm2ksscxdIsk5QrvEFeDbhoMt9jU3amIfcbKCFHxeyaLhQccDYCmR7nT7DjFqGAfNXqdUsh-BOkrvVW2oBlCVHC4obJE01IzpvJOtXjW~b4yinYQfPUeBVbCYiqtzWICzZJ3g8NOTsx-L8EWFEpmBXDHbO~w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA',
     },
     {
       referencia:
@@ -124,12 +112,6 @@ export default {
       referencia:
         'TENA FERNÁNDEZ, R. A. M. Ó. N. (2016). ELEVATOR PITCH: ¡COMUNICA Y DEFIENDE TU PROYECTO EN 60 SEGUNDOS! Didáctica, Innovación y Multimedia, 34.',
       link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=5693465',
-    },
-    {
-      referencia:
-        'Villafuerte Coello, I. C. (2012). Oratoria (1.a ed.). RED TERCER MILENIO S.C.',
-      link:
-        'http://www.aliat.org.mx/BibliotecasDigitales/comunicacion/Oratoria.pdf',
     },
   ],
   glosario: [

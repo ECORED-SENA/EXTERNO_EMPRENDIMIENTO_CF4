@@ -13,7 +13,7 @@
       .col-12.col-lg-8.align-self-center
         .h4 Eres un emprendedor joven y ha llegado el momento de presentar tu propuesta a un  grupo de inversores o  posibles aliados, incluso a clientes, es un momento crucial, es muy difícil vender algo o convencer si nuestro discurso no empatiza con alguien a pesar de que el producto o servicio sea muy bueno. Hay momentos que son oportunidades únicas y no las podemos desaprovechar.
         .cajon.color-acento-botones.p-4.mt-4
-          p Hay elementos que se deben tener en cuenta cuando se presenta una propuesta que van desde la ropa, pasando por los aspectos no verbales, teniendo en cuenta los componentes de la voz y las ayudas visuales. #[strong A continuación, vamos a ver esos componentes y apropiar una técnica muy usada por convocatorias privadas y públicas, conocida como el elevator pitch.] 
+          p Hay elementos que se deben tener en cuenta cuando se presenta una propuesta que van desde la ropa, pasando por los aspectos no verbales, teniendo en cuenta los componentes de la voz y las ayudas visuales. #[strong A continuación, vamos a ver esos componentes y apropiar una técnica muy usada por convocatorias privadas y públicas, conocida como el #[em elevator pitch].] 
     .titulo-segundo.mt-5.color-primario#inicio.mb-0
       #t_2_1.h2 2.1 Aspectos clave de la oratoria  
     .row.mt-3     
@@ -90,22 +90,19 @@
             figure
               img(src='@/assets/template/tema-2-10.png', alt='Texto que describa la imagen')
         div.row
-          .col-5.d-none.d-lg-flex.align-self-center.offset-1
-            figure
-              img(src='@/assets/template/tema-2-11.png', alt='Texto que describa la imagen')
-          .col-8.col-lg-5.align-self-center.offset-2
+          .col-10.col-lg-5.offset-1.align-self-center
             p En caso de ser en vivo o con video grabado un consejo útil es tener un fondo agradable visualmente, evitando paredes rayadas o con imperfecciones, de igual manera el color de la ropa que usemos genera un mejor impacto visual cuando contrasta con el color del fondo.
             p.mt-3 No estar demasiado cerca de la cámara. Si la persona se hace muy cerca de la cámara no se va a ver el movimiento de sus manos y se pierde en gran medida la comunicación no verbal. Otra recomendación es el ángulo de la cámara, si se pone de abajo hacia arriba la imagen se capta con un ángulo que deja ver la parte inferior del rostro, debajo del mentón que no nos favorece en video.
+          .col-5.d-none.d-lg-flex.align-self-center
+            figure
+              img(src='@/assets/template/tema-2-11.png', alt='Texto que describa la imagen')
         .row.py-5
           .col-8.col-lg-5.align-self-center.offset-2
-            p Algo que es incluso más importante que la imagen es el sonido en una video conferencia, por eso es muy útil tener un micrófono para evitar el sonido ambiente de donde nos encontremos, no necesariamente debe ser un micrófono profesional, puede ser el manos libres de un teléfono, pero es importante que hagamos pruebas de sonido para evitar inconvenientes de última hora. Así mismo se recomienda tener un cable de red para que la conexión a internet sea más fluida que con wifi, recordemos que este puede ser un momento clave con un inversionista y no podemos dejar al azar las cosas.
+            p Algo que es incluso más importante que la imagen es el sonido en una videoconferencia, por eso es muy útil tener un micrófono para evitar el sonido ambiente de donde nos encontremos, no necesariamente debe ser un micrófono profesional, puede ser el manos libres de un teléfono, pero es importante que hagamos pruebas de sonido para evitar inconvenientes de última hora. Así mismo se recomienda tener un cable de red para que la conexión a internet sea más fluida que con wifi, recordemos que este puede ser un momento clave con un inversionista y no podemos dejar al azar las cosas.
           .col-5.d-none.d-lg-flex.align-self-center
             figure
               img(src='@/assets/template/tema-2-12.png', alt='Texto que describa la imagen')
         div.row
-          .col-5.d-none.d-lg-flex.align-self-center.offset-1
-            figure
-              img(src='@/assets/template/tema-2-13.png', alt='Texto que describa la imagen')
           .col-8.col-lg-5.align-self-center.offset-2
             p Si vamos a grabar un video, el tiempo de intervención será menor, por eso es importante hacer un guion básico, condensando lo más importante para ser eficiente con el tiempo y escoger las imágenes que vamos a usar de apoyo. Para los procesos de grabación te invitamos a ver el siguiente video en el cual nos orientan sobre cómo grabar videos con dispositivo móvil desde la casa.
             .tarjeta.bg-azul-oscuro.p-3.mt-4.fondo-img-1
@@ -118,6 +115,9 @@
                     .col-sm-auto
                       a.boton.bg-naranja(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
                         span.text-sistema Ver video
+          .col-5.d-none.d-lg-flex.align-self-center
+            figure
+              img(src='@/assets/template/tema-2-13.png', alt='Texto que describa la imagen')
         .row.py-5
           .col-8.col-lg-5.align-self-center.offset-2
             p Lo siguiente después de grabar el video es la edición, para ello te invitamos a ver el video sobre como editar con capcut, una valiosa aplicación para teléfonos móviles.
@@ -138,16 +138,16 @@
     separador.mt-3
 
     .titulo-segundo.mt-5.color-primario#inicio.mb-0
-      #t_2_3.h2 2.3 Técnica de elevator pitch
+      #t_2_3.h2 2.3 Técnica de #[em elevator pitch]
     .row.mt-6.p-3.bg-gris-deg.rounded-15
       .col-lg-3.d-none.d-xl-flex.position-relative
         figure.position-absolute(style="bottom:-40%; left:-6%")
           img(src='@/assets/template/tema-2-15.png', alt='Texto que describa la imagen')
       .col-12.col-xl-9
-        p.mr-n3 #[strong.text-primario El elevator pitch es una técnica que ha cobrado mucha importancia en los últimos años debido a que el concepto de agilidad está presente en diversos procesos.] Básicamente consiste en simular que en un ascensor nos encontramos a un posible inversionista en una oportunidad única y tenemos el tiempo que tarde de bajar de un piso 12 al piso 1 para convencerlo de nuestra propuesta de negocio, es decir, #[strong que el discurso en esta técnica es corto y debe ser efectivo para lograr que quiera escuchar más adelante el resto de nuestra propuesta.] (TENA FERNÁNDEZ, 2016).
+        p.mr-n3 #[strong.text-primario El #[em elevator pitch] es una técnica que ha cobrado mucha importancia en los últimos años debido a que el concepto de agilidad está presente en diversos procesos.] Básicamente consiste en simular que en un ascensor nos encontramos a un posible inversionista en una oportunidad única y tenemos el tiempo que tarde de bajar de un piso 12 al piso 1 para convencerlo de nuestra propuesta de negocio, es decir, #[strong que el discurso en esta técnica es corto y debe ser efectivo para lograr que quiera escuchar más adelante el resto de nuestra propuesta.] (TENA FERNÁNDEZ, 2016).
     .row.mt-5
       .col-12.col-lg-9.mt-5
-        .h4 La estructura de un elevator pitch puede ser de diversas formas, te explicaremos una en la cual te puedes basar para realizar tu propia secuencia o tu discurso.
+        .h4 La estructura de un #[em elevator pitch] puede ser de diversas formas, te explicaremos una en la cual te puedes basar para realizar tu propia secuencia o tu discurso.
         p.mt-3 Comencemos con una pregunta o dato interesante, tal vez una cifra importante, por eso identificamos muy bien a nuestro público para conectarnos con sus intereses por medio de ese dato o pregunta.
         .cajon.color-acento-botones.p-4.mt-4
           p Ahora contemosle de manera breve quienes somos y cuál es nuestro emprendimiento, que hacemos y cuáles son nuestros objetivos.
@@ -165,7 +165,7 @@
 
         .row.mt-3
           .col-12.px-4.py-3.bg-azul-claro
-            p.mb-0.px-4.fw-bold.border-green-left Aunque todo esto parezca un resumen muy corto siempre debemos tener preparado un documento adicional con más datos del negocio, ya que el elevator pitch viene a ser el primer filtro para determinar que quieren escuchar el resto de nuestra propuesta
+            p.mb-0.px-4.fw-bold.border-green-left Aunque todo esto parezca un resumen muy corto siempre debemos tener preparado un documento adicional con más datos del negocio, ya que el #[em elevator pitch] viene a ser el primer filtro para determinar que quieren escuchar el resto de nuestra propuesta
 
 </template>
 

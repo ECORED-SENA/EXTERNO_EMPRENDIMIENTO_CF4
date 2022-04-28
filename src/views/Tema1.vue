@@ -98,7 +98,7 @@
           img(src='@/assets/template/arrow.svg').px-lg-4.px-xl-5
     .row.mt-3
       .col-12.col-lg-8.align-self-center
-        p #[strong El primer componente es el segmento de clientes, que es uno de los más importantes porque permite definir hacia quién va nuestro bien o servicio.] Sin embargo, para entender mejor el concepto te invito a plantearte la siguiente situación: se te acaba de ocurrir una idea mágnifica, creemos que es una idea que otorga valor, pero cuando la lanzamos al mercado nos damos cuenta de que a las personas no les interesa nuestro bien o servicio. Quizá son diferentes a nosotros, no lo ven interesante o no le encuentran sentido, o no es afín a sus necesidades. Por ello, #[strong.text-primario al plantear nuestra idea de negocio es importante segmentar nuestros clientes, identificar quién es nuestro público objetivo y porque podría ser interesante adquirir nuestro producto o servicio.]
+        p #[strong El primer componente es el segmento de clientes, que es uno de los más importantes porque permite definir hacia quién va nuestro bien o servicio.] Sin embargo, para entender mejor el concepto te invito a plantearte la siguiente situación: se te acaba de ocurrir una idea mgnífica, creemos que es una idea que otorga valor, pero cuando la lanzamos al mercado nos damos cuenta de que a las personas no les interesa nuestro bien o servicio. Quizá son diferentes a nosotros, no lo ven interesante o no le encuentran sentido, o no es afín a sus necesidades. Por ello, #[strong.text-primario al plantear nuestra idea de negocio es importante segmentar nuestros clientes, identificar quién es nuestro público objetivo y porque podría ser interesante adquirir nuestro producto o servicio.]
         .row.mt-3
           .col-12.px-4.py-3.bg-azul-claro
             p.mb-0.px-4.fw-bold.border-green-left Así que si hablamos de segmentar, debemos empezar a dividir, para ello debemos estimar edad, género, utilidad, necesidad e interés, lo que además debe focalizar nuestro concepto de publicidad y los medios de difusión deben tener en cuenta ese público objetivo. (Meza, s. f.)
@@ -107,7 +107,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
-                  h3.mb-1 Switch de ideas, ¿Qué es un segmento de clientes?
+                  h3.mb-1 #[em Switch] de ideas, ¿Qué es un segmento de clientes?
                   p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                 .col-sm-auto
                   a.boton.bg-naranja(href="https://youtu.be/O74hVuoFn70" target="_blank")
@@ -134,7 +134,7 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0.text-white
-                      h3.mb-1 Switch de ideas, ¿Qué es una propuesta de valor?
+                      h3.mb-1 #[em Switch] de ideas, ¿Qué es una propuesta de valor?
                       p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-sm-auto
                       a.boton.bg-naranja(href="https://youtu.be/NItf1By4_Wo" target="_blank")
@@ -147,7 +147,7 @@
           img(src='@/assets/template/arrow.svg').px-lg-4.px-xl-5
     .row.mt-2
       .col-12.col-lg-8.align-self-center
-        p Es momento de hablar de los canales de distribución. Seguramente lo primero que viene a nuestra mente al leer la palabra canales de distribución, sea la forma como les va a llegar a los clientes nuestro producto, y bueno, tienen razón, pero no sólo se refiere a ese tipo de distribución, sino también a la forma #[strong.text-primario como se enteran los cliente sobre la propuesta de valor tanto en el momento de vender como el proceso posterior a la venta, es decir, que en canales de distribución tenemos la forma de vender y entregar, la publicidad, el contacto con el cliente entre otras.]
+        p Es momento de hablar de los canales de distribución. Seguramente lo primero que viene a nuestra mente al leer la palabra canales de distribución, sea la forma como les va a llegar a los clientes nuestro producto, y bueno, tienen razón, pero no sólo se refiere a ese tipo de distribución, sino también a la forma #[strong.text-primario como se enteran los clientes sobre la propuesta de valor tanto en el momento de vender como el proceso posterior a la venta, es decir, que en canales de distribución tenemos la forma de vender y entregar, la publicidad, el contacto con el cliente entre otras.]
         .row.mt-3
           .col-12.px-4.py-3.bg-azul-claro
             p.mb-0.px-4.fw-bold.border-green-left Los canales pueden ser directos, es decir, del emprendedor, directamente al cliente, o indirectos en los que hay intermediarios y a su vez pueden ser propios cuando el emprendedor tiene su tienda física o demás y de socios cuando se utilizan otros emprendimientos.
@@ -156,7 +156,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
-                  h3.mb-1 Switch de ideas, ¿Qué son los canales?
+                  h3.mb-1 #[em Switch] de ideas, ¿Qué son los canales?
                   p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                 .col-sm-auto
                   a.boton.bg-naranja(href="https://youtu.be/OacpcZ9VU30" target="_blank")
@@ -167,7 +167,7 @@
           img(src='@/assets/template/tema-1-14.png', alt='Texto que describa la imagen')
     .row.mt-5#relacion.mx-0.border-top-gris
       .col-5.col-lg-4.col-xl-3.bg-azul-oscuro.py-2.mt-2.align-self-center
-        .h4.text-white Relación con los clienes
+        .h4.text-white Relación con los clientes
       a.col-2.mt-4.offset-5.offset-lg-6.offset-xl-7(href="#inicio").px-3.px-lg-2.px-xl-3
         figure.px-lg-2.px-xl-1
           img(src='@/assets/template/arrow.svg').px-lg-4.px-xl-5
@@ -183,7 +183,7 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0.text-white
-                      h3.mb-1 Switch de ideas, ¿Qué es la relación con los clientes?
+                      h3.mb-1 #[em Switch] de ideas, ¿Qué es la relación con los clientes?
                       p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-sm-auto
                       a.boton.bg-naranja(href="https://youtu.be/2V7K5_F6z5k" target="_blank")
@@ -202,7 +202,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
-                  h3.mb-1 Switch de ideas, ¿Qué es una fuente de ingresos..?
+                  h3.mb-1 #[em Switch] de ideas, ¿Qué es una fuente de ingresos.?
                   p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                 .col-sm-auto
                   a.boton.bg-naranja(href="https://youtu.be/qyZSdQYulVQ" target="_blank")
@@ -228,7 +228,7 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0.text-white
-                      h3.mb-1 Switch de ideas, ¿Qué son los recursos clave?
+                      h3.mb-1 #[em Switch] de ideas, ¿Qué son los recursos clave?
                       p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-sm-auto
                       a.boton.bg-naranja(href="https://youtu.be/xsMqui2-kBg" target="_blank")
@@ -247,7 +247,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
-                  h3.mb-1 Switch de ideas, ¿Qué son las actividades clave?
+                  h3.mb-1 #[em Switch] de ideas, ¿Qué son las actividades clave?
                   p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                 .col-sm-auto
                   a.boton.bg-naranja(href="https://youtu.be/8-3wvJluCGg" target="_blank")
@@ -267,13 +267,13 @@
           .col-12.col-lg-9.offset-lg-3.py-5.position-relative
             figure.d-none.d-lg-flex.position-absolute(style="top:20%;left:-55%;")
               img(src='@/assets/template/tema-1-19.png', alt='Texto que describa la imagen').w-50
-            p #[strong Crear comunidad ayuda a crecer, a aprender, a cohesionarse, por eso este componente del Modelo Canvas es importante y nos referimos a los socios clave.] #[strong.text-primario ¿Quiénes intervienen en un emprendimiento?] , están por ejemplo los proveedores quienes son los que suministran materia prima, insumos o elementos que necesitamos para funcionar, también los inversores o también los aliados comerciales. Tampoco podemos olvidarnos de las entidades del gobierno que regulan ciertos aspectos del país, importaciones, licencias ambientales y demás. Hoy en día los emprendedores jóvenes saben que es importante crear comunidad y relacionarse con organizaciones, para realizar colaboraciones, eventos y demás actividades donde puedan beneficiarse mutuamente.
+            p #[strong Crear comunidad ayuda a crecer, a aprender, a cohesionarse, por eso este componente del Modelo Canvas es importante y nos referimos a los socios clave.] #[strong.text-primario ¿Quiénes intervienen en un emprendimiento?], están por ejemplo los proveedores quienes son los que suministran materia prima, insumos o elementos que necesitamos para funcionar, también los inversores o también los aliados comerciales. Tampoco podemos olvidarnos de las entidades del gobierno que regulan ciertos aspectos del país, importaciones, licencias ambientales y demás. Hoy en día los emprendedores jóvenes saben que es importante crear comunidad y relacionarse con organizaciones, para realizar colaboraciones, eventos y demás actividades donde puedan beneficiarse mutuamente.
             .tarjeta.bg-azul-oscuro.p-3.mt-4.fondo-img-1
               .row.justify-content-around.align-items-center.px-4
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0.text-white
-                      h3.mb-1 Switch de ideas, ¿Qué es un socio clave?
+                      h3.mb-1 #[em Switch] de ideas, ¿Qué es un socio clave?
                       p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-sm-auto
                       a.boton.bg-naranja(href="https://youtu.be/WR6cYoFy2ho" target="_blank")
@@ -292,7 +292,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
-                  h3.mb-1 Switch de ideas, ¿Qué son las estructuras de costos?
+                  h3.mb-1 #[em Switch] de ideas, ¿Qué son las estructuras de costos?
                   p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                 .col-sm-auto
                   a.boton.bg-naranja(href="https://youtu.be/z1WfjXnOvHY" target="_blank")
@@ -309,7 +309,7 @@
         .h4.text-white Integración tecnológica modelo canvas
     .row.p-3.bg-gris-deg.rounded-15.mb-5
       .col-lg-4.d-none.d-xl-flex.position-relative
-        figure.position-absolute(style="bottom:-60%;left:-4%")
+        figure.position-absolute(style="bottom:-60%;left:-13%")
           img(src='@/assets/template/tema-1-21.png', alt='Texto que describa la imagen').w-75
       .col-12.col-xl-8
         p La tecnología se integra a todas las áreas siendo el emprendimiento una de ellas, simplemente lo que corresponde hacer es analizar qué procesos pueden funcionar con herramientas tecnológicas.
@@ -326,7 +326,7 @@
       .tarjeta.color-acento-botones--borde.p-4(titulo="Análisis canales").row
         .col-12.col-lg-8
           .h3 Análisis canales
-          p.mt-3 Ahora debes analizar los canales de distribución, podrías encontrar un gran aporte en la tecnología, es probable que la venta sea directa desde el restaurante, pero que también cuente con una aplicación móvil para hacer el pedido. Si piensas en la publicidad podrías hacer una búsqueda en redes sociales donde haya etiquetas o grupos de la zona y la ciudad, pero además las redes sociales propias de tu emprendimiento donde podrías subir fotografías del lugar, de la comida, reels a Instagram, shorts en YouTube, publicaciones en Facebook, videos dinámicos de la comida en tiktok y demás redes sociales. (García Zamudio, 2017)
+          p.mt-3 Ahora debes analizar los canales de distribución, podrías encontrar un gran aporte en la tecnología, es probable que la venta sea directa desde el restaurante, pero que también cuente con una aplicación móvil para hacer el pedido. Si piensas en la publicidad podrías hacer una búsqueda en redes sociales donde haya etiquetas o grupos de la zona y la ciudad, pero además las redes sociales propias de tu emprendimiento donde podrías subir fotografías del lugar, de la comida, #[em reels] a Instagram, #[em shorts] en YouTube, publicaciones en Facebook, videos dinámicos de la comida en TikTok y demás redes sociales. (García Zamudio, 2017)
         .col-4.d-none.d-lg-flex.align-self-center
           figure
             img(src='@/assets/template/tema-1-23.png', alt='Texto que describa la imagen')
