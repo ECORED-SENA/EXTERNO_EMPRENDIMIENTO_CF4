@@ -98,7 +98,7 @@
           img(src='@/assets/template/arrow.svg').px-lg-4.px-xl-5
     .row.mt-3
       .col-12.col-lg-8.align-self-center
-        p #[strong El primer componente es el segmento de clientes, que es uno de los más importantes porque permite definir hacia quién va nuestro bien o servicio.] Sin embargo, para entender mejor el concepto te invito a plantearte la siguiente situación: se te acaba de ocurrir una idea mgnífica, creemos que es una idea que otorga valor, pero cuando la lanzamos al mercado nos damos cuenta de que a las personas no les interesa nuestro bien o servicio. Quizá son diferentes a nosotros, no lo ven interesante o no le encuentran sentido, o no es afín a sus necesidades. Por ello, #[strong.text-primario al plantear nuestra idea de negocio es importante segmentar nuestros clientes, identificar quién es nuestro público objetivo y porque podría ser interesante adquirir nuestro producto o servicio.]
+        p #[strong El primer componente es el segmento de clientes, que es uno de los más importantes porque permite definir hacia quién va nuestro bien o servicio.] Sin embargo, para entender mejor el concepto te invito a plantearte la siguiente situación: se te acaba de ocurrir una idea magnífica, creemos que es una idea que otorga valor, pero cuando la lanzamos al mercado nos damos cuenta de que a las personas no les interesa nuestro bien o servicio. Quizá son diferentes a nosotros, no lo ven interesante o no le encuentran sentido, o no es afín a sus necesidades. Por ello, #[strong.text-primario al plantear nuestra idea de negocio es importante segmentar nuestros clientes, identificar quién es nuestro público objetivo y porque podría ser interesante adquirir nuestro producto o servicio.]
         .row.mt-3
           .col-12.px-4.py-3.bg-azul-claro
             p.mb-0.px-4.fw-bold.border-green-left Así que si hablamos de segmentar, debemos empezar a dividir, para ello debemos estimar edad, género, utilidad, necesidad e interés, lo que además debe focalizar nuestro concepto de publicidad y los medios de difusión deben tener en cuenta ese público objetivo. (Meza, s. f.)
@@ -202,7 +202,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
-                  h3.mb-1 #[em Switch] de ideas, ¿Qué es una fuente de ingresos.?
+                  h3.mb-1 #[em Switch] de ideas, ¿Qué es una fuente de ingresos?
                   p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                 .col-sm-auto
                   a.boton.bg-naranja(href="https://youtu.be/qyZSdQYulVQ" target="_blank")

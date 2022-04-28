@@ -113,7 +113,7 @@
                       h3.mb-1 Tutorial para grabar videos
                       p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-sm-auto
-                      a.boton.bg-naranja(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                      a.boton.bg-naranja(href="https://www.youtube.com/watch?v=41Z5EoP0fOQ" target="_blank")
                         span.text-sistema Ver video
           .col-5.d-none.d-lg-flex.align-self-center
             figure
@@ -129,7 +129,7 @@
                       h3.mb-1 Creación de video
                       p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                     .col-sm-auto
-                      a.boton.bg-naranja(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                      a.boton.bg-naranja(href="https://www.youtube.com/watch?v=erk3tP-avF8" target="_blank")
                         span.text-sistema Ver video
             p.mt-4 Con estos videos y las recomendaciones anteriores ya tendremos un gran criterio para poder generar un discurso en vivo por videoconferencia o un video sobre nuestro emprendimiento
           .col-5.d-none.d-lg-flex.align-self-center
@@ -139,9 +139,10 @@
 
     .titulo-segundo.mt-5.color-primario#inicio.mb-0
       #t_2_3.h2 2.3 Técnica de #[em elevator pitch]
+    br
     .row.mt-6.p-3.bg-gris-deg.rounded-15
       .col-lg-3.d-none.d-xl-flex.position-relative
-        figure.position-absolute(style="bottom:-40%; left:-6%")
+        figure.position-absolute(style="bottom:-70px; left:-6%")
           img(src='@/assets/template/tema-2-15.png', alt='Texto que describa la imagen')
       .col-12.col-xl-9
         p.mr-n3 #[strong.text-primario El #[em elevator pitch] es una técnica que ha cobrado mucha importancia en los últimos años debido a que el concepto de agilidad está presente en diversos procesos.] Básicamente consiste en simular que en un ascensor nos encontramos a un posible inversionista en una oportunidad única y tenemos el tiempo que tarde de bajar de un piso 12 al piso 1 para convencerlo de nuestra propuesta de negocio, es decir, #[strong que el discurso en esta técnica es corto y debe ser efectivo para lograr que quiera escuchar más adelante el resto de nuestra propuesta.] (TENA FERNÁNDEZ, 2016).
